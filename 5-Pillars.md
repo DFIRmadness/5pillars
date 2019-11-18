@@ -2,6 +2,7 @@
 
 ## TLD;DR:
 To start, or level up, a career in Cyber Security you need to be proficient in five key areas of technical skills.  You don't have to *master* each one of them, but you need to have a good understanding of them.  Befor you can leap straight into a field like forensics or penetration testing you need understand the environments of those fields.  The five areas are:
+
 1. General Computing
 2. Computer Networking
 3. Scripting and Programming
@@ -9,6 +10,10 @@ To start, or level up, a career in Cyber Security you need to be proficient in f
 5. Windows
 
 Don't be scared! While you won't learn it over night you only need the fundamentals.  That said, you also can't expect to get to where you need to be over night.  If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
+
+### Wait! Wait! Wait! Where is the hacking!? No where in the list is their hacking or security
+
+Correct.  These are the fundamentals that both defense and offense require!  More focused security paths are add to the second section of this document.
 
 Now on to the document...
 
@@ -41,8 +46,8 @@ You do not need a $3000 Gaming Laptop or a Desktop with 2 GPU's and 10 TB SSD.  
 The following are key skill sets within each pillar.  It is not an exhaustive list.
 
 |General Computing|Networking|Programming and Scripting|Windows|Linux|
-|:---:|:---:|:---:|:---:|:---:|
-|Hardware Components: CPU, RAM, SSD/HDD, Threads, Processes, Process Trees|OSI Model, TCP/IP Model, TCP vs UDP, Packet Analysis, Packet Capture, Routing, DNS, ARP|Python, Powershell, BASH. Bonus: C++ or C#|Registry(5 Hives), Volume Shadow Copies, UAC, Memory Paging, .msi vs .exe, DLLs, RIDs, SIDs, Tokens, Network Profiles, Server vs. Workstation. Commands: Netstat, whoami, ping, ipconfig, Powershell Remoting. Tools: Sysinternals, Process Hacker.|Directory Hierarchy, sudo accounts, /etc/shadow and /etc/passwd, ssh, telnet and ftp.  Software Repositories.  Be Familiar with Distributions: Kali, Debian, Ubuntu, CentOS, RedHat.  Commands: w, find, whoami, which, who, ss, watch, ssh, lsof, ssh-add, top, htop, sudo, nano and vim.|
+|:---|:---|:---|:---|:---|
+|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<li>Threads<li>Processes<li>Process Trees|<li>OSI Model<li>TCP/IP Model<li>TCP vs UDP<li>Packet Analysis<li>Packet Capture<li>Routing<li>DNS<li>ARP|<li>Python<li>Powershell<li>BASH<li>Bonus: C++ or C#|<li>Registry(5 Hives)<li>Volume Shadow Copies<li>UAC<li>Memory Paging<li>.msi vs .exe<li>DLLs<li>RIDs<li>SIDs<li>Tokens<li>Network Profiles<li>Server vs. Workstation<li>Commands: <li>Netstat<li>whoami<li>ping<li>ipconfig<li>Powershell Remoting<li>Tools: Sysinternals<li>Process Hacker.|<li>Directory Hierarchy<li>sudo accounts<li>/etc/shadow and /etc/passwd<li>ssh<li>telnet<li>ftp<li>Software Repositories<li>Be Familiar with Distributions: Kali, Debian, Ubuntu, CentOS, RedHat<li>Commands: w, find, whoami, which, who, ss, watch, ssh, lsof, ssh-add, top, htop, sudo, nano and vim.|
 
 Yes.  That is a lot.  First, to be good in this industry you will want to be *familiar* with each of these things and beyond.  You will not learn it all over night nor should you try.  Just refer back to this often as a guide.  Be patient. Enjoy the journey.
 
@@ -55,3 +60,7 @@ The following are goals to shoot for in each area.  If you can meet each of thes
 |Explain the difference between something being stored in memory vs. something stored on disk. Explain the basics of process injection. Explain the difference between killing a thread and killing a process.|Using all 7 layers of the OSI model explain how a piece of information flows from your computer to google.com and back when you type `ping google.com`.|Be able to write a basic script to automate a simple task; and be able to read and understand the overall idea of what someone else’s script is attempting to do.|Be able to write a basic script to automate a simple task; and be able to read and understand the overall idea of what someone else’s script is attempting to do.|Be able to explain sudo, shadow and passwd files, user groups and proper installation and maintenance of software (repos).Be able to maneuver the OS with command line only and look for network connections and their related processes.|
 
 # Resources:  How Do We Get 'There'?
+
+|Test||
+|---|---|
+|-something|sa|
