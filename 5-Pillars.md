@@ -23,7 +23,7 @@ The cert farms that tell you A+, Net+, Sec+ and CEH in 6 weeks will get you a ca
 
 You do not need a degree in cyber security. You do not need a degree in cyber security.  If you just have to get a degree- get it in Computer Science.  There are sadly an over whelming amount of people with Cyber Security degrees who do not know their way around a keyboard and only know academic theory... they can only talk the talk without being able to walk the walk. Most degree programs do not provide nearly enough hands on fundamentals to set someone up for sucess.
 
-### A Note About the Image and Attraction to PenTesting
+### A Note About the Image and Allure of PenTesting
 
 Before you start:  Perhaps Penetration Testing is all that interests you - or "catching bad guys" is the only thing you want in life.  Remember that learning both sides of the force will benefit you.  The better your understanding of defense the more lethal you can be on offense. **There are probably 10 Blue (defense) jobs to Red (offense).  There are a lot of fun jobs outside of Penetration Testing.**  That said, Penetration testing is a blast and is addicting.  It is also a lot of work and not simply pwning networks and dropping mic's.
 
@@ -62,7 +62,7 @@ The following are key skill sets within each pillar.  It is not an exhaustive li
 |Pillar aka Functional Area|Skills|
 |---|---|
 |**General Computing**|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<li>Science:<br>Threads<li>Processes<li>Process Trees|
-|**Networking**|<li>OSI Model<li>TCP/IP Model<li>TCP vs UDP<li>Packet Analysis<li>Packet Capture<li>Routing<li>DNS<li>ARP|
+|**Networking**|<li>OSI Model<li>TCP/IP Model<li>TCP vs UDP<li>Packet Analysis<li>Packet Capture<li>Routing<li>DNS<li>ARP<li>Subnets<li>VLANS|
 |**Programming and Scripting**|<li>Python<li>Powershell<li>BASH<li>Bonus: C++ or C#|
 |**Windows**|<li>Registry (5 Hives)<li>Volume Shadow Copies<li>UAC<li>Memory Paging<li>.msi vs .exe<li>DLLs<li>RIDs<li>SIDs<li>Tokens<li>Network Profiles<li>Server vs. Workstation<li>Commands: <li>Netstat<li>whoami<li>ping<li>ipconfig<li>Powershell Remoting<li>Tools: Sysinternals<li>Process Hacker.|
 |**Linux**|<li>Directory Hierarchy<li>sudo accounts<li>/etc/shadow and /etc/passwd<li>ssh<li>telnet<li>ftp<li>Software Repositories<li>Be Familiar with Distributions: Kali, Debian, Ubuntu, CentOS, RedHat<li>Commands: w, find, whoami, which, who, ss, watch, ssh, lsof, ssh-add, top, htop, sudo, nano and vim.|
@@ -76,12 +76,14 @@ The following are goals to shoot for in each area.  If you can meet each of thes
 |Pillar aka Functional Area|Skills|
 |---|---|
 |**General Computing**|Explain the difference between something being stored in memory vs. something stored on disk. Explain the basics of process injection. Explain the difference between killing a thread and killing a process.|
-|**Networking**|Using all 7 layers of the OSI model explain how a piece of information flows from your computer to google.com and back when you type `ping google.com`.|
+|**Networking**|Using all 7 layers of the OSI model explain how a piece of information flows from your computer to google.com and back when you type `ping google.com`.<li> Explain what a VLAN is and why they are used.<li>Explain what a subnet is and why they are used.<li>Explain the security protections offered by subnets and VLANs|
 |**Programming and Scripting**|Be able to write a basic script to automate a simple task; and be able to read and understand the overall idea of what someone else’s script is attempting to do.|
 |**Windows**|Be able to explain the function of the registry, the UAC, and tokens. Be able to maneuver the OS with command line only and look for network connections and their related processes.|
 |**Linux**|Be able to explain sudo, shadow and passwd files, user groups and proper installation and maintenance of software (repos).Be able to maneuver the OS with command line only and look for network connections and their related processes.|
 
 *Remember you have to know how things work to exploit them.  You have to know what right looks like to find the gaps in security.*
+
+These goals above are a good measure of when you are ready to deep dive into a specific security path of learning (and of course have fun and sprinkle in security lessons along the way).
 
 ## A Note About Certifications
 
@@ -147,8 +149,8 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 |General Computing|<li> A+ Cert videos from [Professor Messer](https://www.professormesser.com/) and [ITPro.tv](https://www.itpro.tv/).  Remember the objectives from above.  You aren't actually getting the cert.<li>[Threads v Processes](https://www.youtube.com/watch?v=O3EyzlZxx3g) video from udacity/Georgia Tech<li>[Professor Messer A+](https://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/)|
 |Networking|<li>[Professor Messer Network+](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)<li>[malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) - Collection of PCAPs filled with evil along free tutorials on how to find it with WireShark<li>Any CCENT (Cisco Certified Entry Networking Technician) Materials in ITPro.TV, Safari Books etc. Typically the first few chapters.  Once it gets deep into iOS (Cisco Op System) specific material you’ve hit the limit of the fundamentals<li>[Todd Lammle Internetworking on ITPro](https://app.itpro.tv/course-library/ccent-updated-2016/internetworking/?tagcategory=course-library&tag=legacy) - Todd Lammle gives an amazing internetworking fundamentals course in 15 minutes.  Watch this often.<li>[ITPro 2018 CCENT Course](https://app.itpro.tv/course-library/ccent-updated-2018/overview-ccent2018/?tagcategory=course-library&tag=cisco) - Remember you aren't getting the cert here, but watch the first few hours.|
 |Programming and Scripting|<li>[Learn Python.org](https://www.learnpython.org/)<li>[Under The Wire](https://underthewire.tech) - An awesome CTF to learn PowerShell.  Walkthroughs littered through out the internet if you get stuck.|
-|Windows|<li>[Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.|
-|Linux|<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux.  A CTF from the same crew who did underthewire.org.  This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.|
+|Windows|<li>[Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.|
+|Linux|**Recommended Linux Distro to Start With is: Ubuntu**<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux.  A CTF from the same crew who did underthewire.org.  This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.|
 
 <br>
 <br>
@@ -159,10 +161,52 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 **Beyond here is a place holder to be fleshed out soon**
 
 # Lab Set Ups and Advice
-Place holder for discussions and layouts of home lab concepts and resources of places to connect to like hackthebox.eu.
+
+There are two approaches to having a lab environment:
+
+1. Local
+2. Remote
+
+## Local Lab
+
+A local lab is built either on your laptop or home built server.  Again, budget dependent.  Building a local lab is actually pretty easy and the process alone will teach you quite a bit.  The world is using a lot of virtualized systems and networks.  Any progress in learning you make here will be a win either way.
+
+To build a local lab on your laptop you will need either of the following (yes there are many more but these are the main staples and finding walk throughs and tutorials are easy) pieces of software:
+
+1. (Paid) VMware Workstation Pro or VMware Fusion for MacOS
+2. (Free) VirtualBox
+
+Sadly, you get what you pay for here.  While Virtual Box works fine enough it is certainly no VMware.  You will save hours of troubleshooting and work arounds with VMWare.  It is expensive.  Though its probably a legal gray area, you can find keys for cheap on E-Bay.  The [Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) is good crash course on setting up a security lab.  There are a ton of youtube walk throughs and blogs on how to do this.  More will be added here in the future.
+
+### Local Lab Cyber Range Set-Up Overview
+
+A well outfitted local cyber range that can run on a laptop may look something like this:
+
+|Subnet|Hosts|
+|---|---|
+|Internal|<li> Windows Domain Controller (D.C.)<li>Windows Client machine on the domain connected to file share on the D.C.<li>Google Rapid Response Server<li>Vulnerable Web Server that in both networks (this allows you to learn to pivot into the network)|
+|External|<li> Kali Machine<li>Other Network Connection of the Vulnerable Web Server|
+
+The Kali machine can be moved into the Internal Subnet for "Internal Pentesting" etc.
+
+### Where to Get Vulnerable VM's
+[Vuln Hub](https://www.vulnhub.com/) - A collection of vulnerable virtual machines for your home lab given for free and include a lot of awesome walk-through's to learn from.
+[Vuln Hubs Guide to Building A Lab](https://www.vulnhub.com/lab/) - A guided tour on building a home pentesting lab.
+
+## Remote Labs
+
+Another great resource are lab networks set-up and maintained for you to VPN into and go after vulnerable servers or follow along with exercises.
+
+[Hack The Box](https://www.hackthebox.eu/) - One of the most popular pentesting lab environments.  In addition, they have forensics challenges etc with stand alone files.  The community can be very welcoming and educational.  You have to hack your way in to get a membership.  Just follow their directions and have fun!  They have free and paid tier memberships. Paid memberships are something like 12 bucks a month.  Their Discord community is top notch.
+
+[PenTester Academy](https://www.pentesteracademy.com/) - The video quality isn't amazing, but the write-ups, walk throughs and lab environment are great. You can catch great deals on the membership from time to time.  The pricing is between $49 and $69 a month depending on when you catch them.  Well worth it for the [Attack and Defense Labs](https://www.pentesteracademy.com/).
 
 # Security Specific Studies and InfoSec Immersion
-Once you have a good handle on fundamentals or need some movtivation (or just a break from the more basic stuff)
+
+Once you have a good handle on fundamentals or need some movtivation (or just a break from the more basic 
+stuff)
+
+[Vuln Hubs List of Resources](https://www.vulnhub.com/) - A great list of security specific resources!
 
 ## Training Companies
 
