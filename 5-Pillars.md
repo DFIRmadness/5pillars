@@ -190,3 +190,13 @@ Once you have a good handle on fundamentals or need some movtivation (or just a 
 - BDS
 - Cyber Mentor
 - Hack the Box
+
+## Podcasts
+
+- Darknet Diaries
+- Pauls Security Weekly
+- Security Now
+- Brakeing Down Security
+- Brakeing Down Incident Response
+- SANS Internet Storm Center
+- The Cyber Wire
