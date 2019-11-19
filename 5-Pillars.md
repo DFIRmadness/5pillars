@@ -57,8 +57,6 @@ You do not need a $3000 Gaming Laptop or a Desktop with 2 GPU's and 10 TB SSD.  
 ## Fundamentals Breakdown
 The following are key skill sets within each pillar.  It is not an exhaustive list.
 
-|General Computing|Networking|Programming and Scripting|Windows|Linux|
-
 |Pillar aka Functional Area|Skills|
 |---|---|
 |**General Computing**|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<li>Science:<br>Threads<li>Processes<li>Process Trees|
