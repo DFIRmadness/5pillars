@@ -17,13 +17,13 @@ Correct.  These are the fundamentals that both defense and offense require!  Mor
 
 ### A Note about Certifaction Pipelines / Schools
 
-The cert farms that tell you A+, Net+, Sec+ and CEH in 6 weeks will get you a career are taking your money. Certs are important and you will need some most likely, but you need 5 in 5 weeks or 5 in 5 months.
+The cert farms that tell you A+, Net+, Sec+ and CEH in 6 weeks will get you a career are stealing your money. Certs are important and you will need some most likely, but you DO NOT need 5 in 5 weeks or 5 in 5 months.
 
 ### A Note about College Degrees
 
 You do not need a degree in cyber security. You do not need a degree in cyber security.  If you just have to get a degree- get it in Computer Science.  There are sadly an over whelming amount of people with Cyber Security degrees who do not know their way around a keyboard and only know academic theory... they can only talk the talk without being able to walk the walk. Most degree programs do not provide nearly enough hands on fundamentals to set someone up for sucess.
 
-### A Note About the Image and Allure of PenTesting
+### A Note About the Image and Attraction of PenTesting
 
 Before you start:  Perhaps Penetration Testing is all that interests you - or "catching bad guys" is the only thing you want in life.  Remember that learning both sides of the force will benefit you.  The better your understanding of defense the more lethal you can be on offense. **There are probably 10 Blue (defense) jobs to Red (offense).  There are a lot of fun jobs outside of Penetration Testing.**  That said, Penetration testing is a blast and is addicting.  It is also a lot of work and not simply pwning networks and dropping mic's.
 
