@@ -9,7 +9,7 @@ To start, or level up, a career in Cyber Security you need to be proficient in f
 4. Linux / MacOS
 5. Windows
 
-Don't be scared! While you won't learn it over night you only need the fundamentals.  That said, you also can't expect to get to where you need to be over night.  If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
+Don't be scared! While you won't learn it all over night you only need the fundamentals.  If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
 
 ### Wait! Wait! Wait! Where is the hacking!? No where in the list is their hacking or security
 
