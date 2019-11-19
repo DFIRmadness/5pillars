@@ -13,7 +13,7 @@ Don't be scared! While you won't learn it all over night you only need the funda
 
 ### Wait! Wait! Wait! Where is the hacking!? No where in the list is their hacking or security
 
-Correct.  These are the fundamentals that both defense and offense require!  More focused security paths are added to the second section of this document.
+Correct.  These are the fundamentals that both defense and offense require!  More focused security paths are added to the second section of this document. Build the foundation and then the house.
 
 ### A Note about Certifaction Pipelines / Schools
 
