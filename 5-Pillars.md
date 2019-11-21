@@ -103,6 +103,8 @@ The trick when you are first starting out is to find an employer willing to pay 
 
 # Resources:  How Do We Get 'There'?
 
+Now may be a good time to think on *how* you approach learning this mountain of information. [How to learn anything...fast by Josh Kaufman](https://www.youtube.com/watch?v=EtJy69cEOtQ).
+
 ## General Approach
 
 - Start free and cheap to see if you like it.  You may find it isn't for you.
@@ -156,7 +158,7 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 <br>
 <br>
 
-**Beyond here is a place holder to be fleshed out soon**
+**Beyond here is in the early stages of fleshing out**
 
 # Lab Set Ups and Advice
 
@@ -199,7 +201,11 @@ Another great resource are lab networks set-up and maintained for you to VPN int
 
 [PenTester Academy](https://www.pentesteracademy.com/) - The video quality isn't amazing, but the write-ups, walk throughs and lab environment are great. You can catch great deals on the membership from time to time.  The pricing is between $49 and $69 a month depending on when you catch them.  Well worth it for the [Attack and Defense Labs](https://www.pentesteracademy.com/).
 
+[PenTester Labs](https://pentesterlab.com/) - These are great labs! They are pentesting focused but they have a lot other skills and labs for building your base knowledge.  Once you get a membership you download walkthroughs and an accompanying ISO (a virtual machine image).
+
 # Security Specific Studies and InfoSec Immersion
+
+**Start your immersion immediately!**
 
 Once you have a good handle on fundamentals or need some movtivation (or just a break from the more basic 
 stuff)
@@ -208,14 +214,16 @@ stuff)
 
 ## Training Companies
 
-- SANS!
+[SANS!](https://www.sans.org/) - Hands down the best security training on the planet!  Instructors are highly vetted security professionals with time in the trenches in the area of studies that they teach.  They are pricey. **HINT**: If you can't afford $6-8K a course then look up how to become a [SANS facilitator](https://www.sans.org/work-study/).  By volunteering your time and efforts to help the classes happen you can get a course for about $1500 which is a steal!
+
+A SANS cert is recognized immediately by members of the industry as truly demonstrating that the beholder really understands the topic and can execute the skills assosciated.
 
 ## Youtube Channels and Personalities
 
-- Live Overflow
-- IPPSec
-- Cyber Mentor
-- Tyler Hudak / BDS Podcast
+- [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+- [Tyler Hudak / BDS Podcast](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 
 ## Twitter Accounts and Personalites
 
@@ -242,3 +250,46 @@ stuff)
 - Brakeing Down Incident Response
 - SANS Internet Storm Center
 - The Cyber Wire
+
+# Career Paths and Guidance
+
+Recommended certs below are merely recommendations and in now way should this list be taken as all inclusive or a rule to be followed.  It also in no way guaruntees successful employment in the respective fields.
+
+**You do not need every cert listed to work in that field!**
+
+For the SANS recommended pathway you should see [their official guidance](https://www.sans.org/cyber-security-career-roadmap).  They have a recommended [road map](https://www.sans.org/cyber-security-skills-roadmap).
+
+## Engineering
+
+|Recommendation|List|
+|---|---|
+|**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>Linux +|
+|**SKILLSETS**|<li>Linux Power User and Administration<li>BASH<li>Python<li>Networking|
+
+## Defensive Forensics and Incident Response (DFIR)
+
+|Recommendation|List|
+|---|---|
+|**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>SANS Forensics 500 (GCFE)<li>SANS Forensics 508 (GCFA)<li>SNAS Forensics 501 (GCED)<li>SANS Forensics 504 (GCIH)<li>SANS Forensics 503 (GCIA)<li>SEC +<li>CySA +|
+|**SKILLSETS**|<li>Linux Power User<li>Linux Security<li>Windows Power User<li>Windows Security<li>Digital Forensics<li>Windows Systems Internals<li>Memory Forenics<li>Networking|
+
+## Threat Hunting
+
+|Recommendation|List|
+|---|---|
+|**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>SANS Forensics 500 (GCFE)<li>SANS Forensics 508 (GCFA)<li>SANS Forensics 572 (GNFA)<li>SANS Forensics 504 (GCIH)<li>SANS Forensics 503 (GCIA)<li>SEC +<li>CySA +|
+|**SKILLSETS**|<li>Linux Power User<li>Linux Security<li>Windows Power User<li>Windows Security<li>Digital Forensics<li>Windows Systems Internals<li>Memory Forenics<li>Threat Intelligence Consumption<li>Security Automation<li>Networking|
+
+## Malware Reverse Engineer
+
+|Recommendation|List|
+|---|---|
+|**CERTIFICATIONS**|<li>SANS Security 610 (GREM)|
+|**SKILLSETS**|<li>Assembly Code<li>Windows Security<li>Linux Security<li>Python<li>Java<li>C|
+
+## Penetrarion Testing
+
+|Recommendation|List|
+|---|---|
+|**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>Offensive Security Certified Professional<li>Offesnive Security Certified Engineer<li>SANS Network Penetration Testing SEC560 (GPEN)<li>SANS Web Application Penetration Testing SEC542 (GWAPT)<li>Penetration Test +|
+|**SKILLSETS**|<li>Linux Power User<li>Linux Security<li>Windows Security<li>Python<li>BASH<li>Networking<li>Windows Security<li>Windows Sys Internals|
