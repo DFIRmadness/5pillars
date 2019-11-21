@@ -34,6 +34,13 @@ This document is a path forward for new, and experienced, cyber professionals to
 
 Ideally, everyone will have a specialty they excel at in addition to a solid baseline in the fundamentals.  It should not be expected that every one completely masters each pillar.  The intent is to master the fundamentals.  The fundamentals are simply primal blocks of knowledge of each topic; somewhere between the absolute basics and intermediate.  As an example, a team member should understand: sub-netting, routing, OSI model, packet capture, DNS and analysis basics.  This does not mean they need to be Cisco network engineers with a CCNA.
 
+Layout of the document (roughly):
+
+1. Fundamentals and getting started
+2. Lab Set Up Advice
+3. Security Focused Training and Immersion
+4. Security Career Pathways
+
 ## What You Need (Equipment)
 
 You do not need a $3000 Gaming Laptop or a Desktop with 2 GPU's and 10 TB SSD.  This is completely based on your budget.  You can get away with a $500 laptop if needed. I will explain.
