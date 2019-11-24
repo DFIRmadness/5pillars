@@ -154,9 +154,10 @@ These resources will have materials for all or multiple pillars.
 - [Humble Bundle Books](https://www.humblebundle.com/books) They often (every few weeks) have cheap (12 dollars) bundles of books
 - [packtpub daily free book give away](https://www.packtpub.com/free-learning) Free IT and Security books given away daily! Some really good ones on occassion.
 - <img src = "https://yt3.ggpht.com/a/AGF-l79FABgGifk6OVOrWGLKwdMiysqksJ57Mtp4tg=s288-c-k-c0xffffffff-no-rj-mo" width="50"> [ITPro.tv](https://www.itpro.tv/) is one of **the best** resources out there if you can afford it.  They have tiered pricing models that start as **low as $30 bucks a month!** That is a crazy cheap investment to get into a career with a potential to get you to between 65K and 100K+ annually. This is the first item on the list that you are required to pay for if you choose to use them. They have current, and constantly updated, video series on everything in the five pillars and beyond.  Additionally, they offer virtual labs you can remote into with step by step guides, test question banks and more.  Its an amazing resource.
-- [Twitter](https://www.twitter.com) Later there will be a list of people to follow but essentially you can get started with #infosec and #dfir and start a daily ingest of what is going on in the community.  Immerse yourself!
+- [CBT Nuggets](https://www.cbtnuggets.com/) - A direct competitor with ITPro.TV.  They have comparable pricing, virtual labs and *really* good instructional videos.  Their video library does not seem as extensive as that of ITPro.tv.
 - [Professor Messer](https://www.professormesser.com/) Another solid instructor that gives A LOT for free.  The community there is also a great resource to connected to.  He sells "notes" for 10 bucks a piece for each cert that are great overviews and resources to keep in your kit bag.
 - [Computerphile](https://www.youtube.com/user/Computerphile) an epic youtube channel of PhDs explaining computer science and security concepts.
+- [Twitter](https://www.twitter.com) Later there will be a list of people to follow but essentially you can get started with #infosec and #dfir and start a daily ingest of what is going on in the community.  Immerse yourself!
 
 There are so many more amazing people and channels that I will list later in the *Security Specific* Section later.
 
@@ -166,10 +167,10 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 
 |Pillar|Resources|
 |---|---|
-|General Computing|<li> A+ Cert videos from [Professor Messer](https://www.professormesser.com/) and [ITPro.tv](https://www.itpro.tv/).  Remember the objectives from above.  You aren't actually getting the cert.<li>[Threads v Processes](https://www.youtube.com/watch?v=O3EyzlZxx3g) video from udacity/Georgia Tech<li>[Professor Messer A+](https://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/)|
-|Networking|<li>[Professor Messer Network+](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)<li>[malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) - Collection of PCAPs filled with evil along free tutorials on how to find it with WireShark<li>Any CCENT (Cisco Certified Entry Networking Technician) Materials in ITPro.TV, Safari Books etc. Typically the first few chapters.  Once it gets deep into iOS (Cisco Op System) specific material you’ve hit the limit of the fundamentals<li>[Todd Lammle Internetworking on ITPro](https://app.itpro.tv/course-library/ccent-updated-2016/internetworking/?tagcategory=course-library&tag=legacy) - Todd Lammle gives an amazing internetworking fundamentals course in 15 minutes.  Watch this often.<li>[ITPro 2018 CCENT Course](https://app.itpro.tv/course-library/ccent-updated-2018/overview-ccent2018/?tagcategory=course-library&tag=cisco) - Remember you aren't getting the cert here, but watch the first few hours.|
-|Programming and Scripting|<li>[Learn Python.org](https://www.learnpython.org/)<li>[Under The Wire](https://underthewire.tech) - An awesome CTF to learn PowerShell.  Walkthroughs littered through out the internet if you get stuck.|
-|Windows|<li>[ITPro.tv Windows Server Windows 101](https://app.itpro.tv/course-library/server-101/overview-server101/) - GREAT intro course into Windows Servers and Administration. Comes with the assosciated E-Book!<li>[ITPro.tv PoSh Basics](https://app.itpro.tv/course-library/powershell-2017/2017/)<li>[PoSh-Hunter](https://posh-hunter.com/) - A jeopardy style Capture The Flag game to learn PowerShell for InfoSec nerds.<li>[Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.<li> Remember the targeted fundamentals here... you do not need to be an MCSA (Msoft Certified Systems Admin.) to get started.|
+|General Computing|<li> A+ Cert videos from [Professor Messer](https://www.professormesser.com/) and [ITPro.tv](https://www.itpro.tv/).  Remember the objectives from above.  You aren't actually getting the cert.<li>[Threads v Processes](https://www.youtube.com/watch?v=O3EyzlZxx3g) video from udacity/Georgia Tech<li>[Professor Messer A+](https://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/)<li>Assosciated Certifications (Good references): A+|
+|Networking|<li>[Professor Messer Network+](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)<li>[malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) - Collection of PCAPs filled with evil along free tutorials on how to find it with WireShark<li>Any CCENT (Cisco Certified Entry Networking Technician) Materials in ITPro.TV, Safari Books etc. Typically the first few chapters.  Once it gets deep into iOS (Cisco Op System) specific material you’ve hit the limit of the fundamentals<li>[Todd Lammle Internetworking on ITPro](https://app.itpro.tv/course-library/ccent-updated-2016/internetworking/?tagcategory=course-library&tag=legacy) - Todd Lammle gives an amazing internetworking fundamentals course in 15 minutes.  Watch this often.<li>[ITPro 2018 CCENT Course](https://app.itpro.tv/course-library/ccent-updated-2018/overview-ccent2018/?tagcategory=course-library&tag=cisco) - Remember you aren't getting the cert here, but watch the first few hours.<li>[Microsoft Network Fundamentals](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U) - Concise and to the point!  Excellent videos.<li>Assosciated Certifications (Good references): Net+, CCENT, CCNA|
+|Programming and Scripting|<li>[Learn Python.org](https://www.learnpython.org/)<li>[Under The Wire](https://underthewire.tech) - An awesome CTF to learn PowerShell.  Walkthroughs littered through out the internet if you get stuck.<li>[Code School Season 1](https://www.youtube.com/playlist?list=PLcKpytGyWm9rYbF9URFAjKy2MyWKZe0KS) - Learn to code by following along to make a video game! [Season 2](https://www.youtube.com/watch?v=a_8lfRDls3Y). You don't need to do both seasons or even all of season 1. Remember we are going for the fundamentals.  The more you watch and learn the better, but its not necessary to be a developer to get into Cyber Security.<li>[Microsoft Instructional videos on programming with Python](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U)|
+|Windows|<li>[ITPro.tv Windows Server Windows 101](https://app.itpro.tv/course-library/server-101/overview-server101/) - GREAT intro course into Windows Servers and Administration. Comes with the assosciated E-Book!<li>[ITPro.tv PoSh Basics](https://app.itpro.tv/course-library/powershell-2017/2017/) - ITPro's take on PowerShell. Great course.<li>[PoSh-Hunter](https://posh-hunter.com/) - A jeopardy style Capture The Flag game to learn PowerShell for InfoSec nerds.<li>[Microsoft Video Series on PowerShell](https://www.youtube.com/playlist?list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si) - Another great video series on PowerShell.<li>[Microsoft Virtual Academy Active Directory Course](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ) - A video series on Active Directory from Microsoft.<li>[Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.<li> Remember the targeted fundamentals here... you do not need to be an MCSA (Msoft Certified Systems Admin.) to get started.|
 |Linux|**Recommended Linux Distro to Start With is: Ubuntu**<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux. This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.|
 
 <br>
@@ -210,7 +211,9 @@ A well outfitted local cyber range that can run on a laptop may look something l
 The Kali machine can be moved into the Internal Subnet for "Internal Pentesting" etc.
 
 ### Where to Get Vulnerable VM's
+
 [Vuln Hub](https://www.vulnhub.com/) - A collection of vulnerable virtual machines for your home lab given for free and include a lot of awesome walk-through's to learn from.
+
 [Vuln Hubs Guide to Building A Lab](https://www.vulnhub.com/lab/) - A guided tour on building a home pentesting lab.
 
 ## Remote Labs
@@ -247,14 +250,31 @@ A SANS cert is recognized immediately by members of the industry as truly demons
 
 ## Twitter Accounts and Personalites
 
-- Cyber Mentor
-- Malware Jake
-- Derek Root
-- Tyler Hudak
-- Live Overflow
-- Brad from malware traffic
-- IPPSec
-- Azeria
+No particular order.
+
+- Cyber Mentor (@thecybermentor)
+- Jake Williams (@MalwareJake)
+- Derek Root (@\_r00k\_)
+- Tyler Hudak (@SecShoggoth)
+- Live Overflow (@LiveOverflow)
+- Brad from malware traffic (@malware_traffic)
+- IPPSec (@ippsec)
+- Azeria (@Fox0x01)
+- Kody Kinzie (@KodyKinzie)
+- Tinker (@TinkerSec)
+- Jack Rhysider (@JackRhysider)
+- Cyber Gibbons (@cybergibbons)
+- Lesley Carhart (@hacks4pancakes)
+- Paul Asadoorian (@securityweekly)
+- Rob Lee (@robtlee)
+- Ed Skoudis (@edskoudis)
+- SANS DFIR (@sansforensics)
+- MalwareTech (@MalwareTechBlog)
+- Malware Unicorn (@malwareunicorn)
+- Malware Breakdown (@DynamicAnalysis)
+- SANS Institute (@SANSInstitute)
+
+There are a ton more I am not recognizing here but this will get you started.  Welcome to the community!
 
 ## Slack Channels
 
@@ -274,6 +294,9 @@ A SANS cert is recognized immediately by members of the industry as truly demons
 - Brakeing Down Incident Response
 - SANS Internet Storm Center
 - The Cyber Wire
+- Smashing Security
+- Hackable?
+- Breach
 
 # Career Paths and Guidance
 
@@ -301,7 +324,7 @@ For the SANS recommended pathway you should see [their official guidance](https:
 
 |Recommendation|List|
 |---|---|
-|**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>SANS Forensics 500 (GCFE)<li>SANS Forensics 508 (GCFA)<li>SANS Forensics 572 (GNFA)<li>SANS Forensics 504 (GCIH)<li>SANS Forensics 503 (GCIA)<li>SEC +<li>CySA +|
+|**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>SANS Forensics 504 (GCIH)<li>SANS Forensics 500 (GCFE)<li>SANS Forensics 508 (GCFA)<li>SANS Forensics 572 (GNFA)<li>SANS Forensics 503 (GCIA)<li>SEC +<li>CySA +|
 |**SKILLSETS**|<li>Linux Power User<li>Linux Security<li>Windows Power User<li>Windows Security<li>Digital Forensics<li>Windows Systems Internals<li>Memory Forenics<li>Threat Intelligence Consumption<li>Security Automation<li>Networking|
 
 ## Malware Reverse Engineer
@@ -309,7 +332,7 @@ For the SANS recommended pathway you should see [their official guidance](https:
 |Recommendation|List|
 |---|---|
 |**CERTIFICATIONS**|<li>SANS Security 610 (GREM)|
-|**SKILLSETS**|<li>Assembly Code<li>Windows Security<li>Linux Security<li>Python<li>Java<li>C|
+|**SKILLSETS**|<li>Assembly Code<li>Windows Security<li>Linux Security<li>Python<li>Java<li>C<li>HTML|
 
 ## Penetrarion Testing
 
