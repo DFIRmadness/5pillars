@@ -249,15 +249,19 @@ A SANS cert is recognized immediately by members of the industry as truly demons
 
 - Cyber Mentor
 - Malware Jake
+- Derek Root
+- Tyler Hudak
 - Live Overflow
 - Brad from malware traffic
 - IPPSec
 - Azeria
-- Tyler Hudak
 
-## Slack and Discord Channels
+## Slack Channels
 
 - BDS
+
+## Discord Channels
+
 - Cyber Mentor
 - Hack the Box
 
