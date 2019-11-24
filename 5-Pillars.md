@@ -79,7 +79,7 @@ The following are key skill sets within each pillar.  It is not an exhaustive li
 
 |Pillar aka Functional Area|Skills|
 |---|---|
-|**General Computing**|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<li>Science:<br>Threads<li>Processes<li>Process Trees|
+|**General Computing**|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<li>Science:<br>Threads<li>Processes<li>Process Trees<li>Memory (RAM)<li>Caching<li>Buffers|
 |**Networking**|<li>OSI Model<li>TCP/IP Model<li>TCP vs UDP<li>Packet Analysis<li>Packet Capture<li>Routing<li>DNS<li>ARP<li>Subnets<li>VLANS|
 |**Programming and Scripting**|<li>Python<li>Powershell<li>BASH<li>Bonus: C++ or C#|
 |**Windows**|<li>Registry (5 Hives)<li>Volume Shadow Copies<li>UAC<li>Memory Paging<li>.msi vs .exe<li>DLLs<li>RIDs<li>SIDs<li>Tokens<li>Network Profiles<li>Server vs. Workstation<li>Commands: <li>Netstat<li>whoami<li>ping<li>ipconfig<li>Powershell Remoting<li>Tools: Sysinternals<li>Process Hacker.|
