@@ -302,7 +302,6 @@ There are a ton more I am not recognizing here but this will get you started.  W
 <br>
 <br>
 <br>
-<br>
 
 **Beyond here is in the early stages of fleshing out**
 
