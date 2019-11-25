@@ -23,6 +23,14 @@ The cert farms that tell you A+, Net+, Sec+ and CEH in 6 weeks will get you a ca
 
 You do not need a degree in cyber security. You do not need a degree in cyber security.  If you just have to get a degree- get it in Computer Science.  There are sadly an over whelming amount of people with Cyber Security degrees who do not know their way around a keyboard and only know academic theory... they can only talk the talk without being able to walk the walk. Most degree programs do not provide nearly enough hands on fundamentals to set someone up for sucess.
 
+### Typical Career Path
+
+There is no typical career path currently.  Some of the best Cyber Security Pro's were musicians prior! If you have the talent and drive you can work your way in.  That said, a good path would be something like this:
+
+IT Help Desk -> Systems Administrator -> Security Admin -> Specialized Security Role
+
+You can absolutely skip right into security but you will have to study hard and practice a lot of labs that ensure you really have the 5 Pillars well cemented.
+
 ### A Note About the Image and Attraction of PenTesting
 
 Before you start:  Perhaps Penetration Testing is all that interests you - or "catching bad guys" is the only thing you want in life.  Remember that learning both sides of the force will benefit you.  The better your understanding of defense the more lethal you can be on offense. **There are probably 10 Blue (defense) jobs to Red (offense).  There are a lot of fun jobs outside of Penetration Testing.**  That said, Penetration testing is a blast and is addicting.  It is also a lot of work and not simply pwning networks and dropping mic's.
@@ -173,14 +181,6 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 |Windows|<li>[ITPro.tv Windows Server Windows 101](https://app.itpro.tv/course-library/server-101/overview-server101/) - GREAT intro course into Windows Servers and Administration. Comes with the assosciated E-Book!<li>[ITPro.tv PoSh Basics](https://app.itpro.tv/course-library/powershell-2017/2017/) - ITPro's take on PowerShell. Great course.<li>[PoSh-Hunter](https://posh-hunter.com/) - A jeopardy style Capture The Flag game to learn PowerShell for InfoSec nerds.<li>[Microsoft Video Series on PowerShell](https://www.youtube.com/playlist?list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si) - Another great video series on PowerShell.<li>[Microsoft Virtual Academy Active Directory Course](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ) - A video series on Active Directory from Microsoft.<li>[Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.<li> Remember the targeted fundamentals here... you do not need to be an MCSA (Msoft Certified Systems Admin.) to get started.|
 |Linux|**Recommended Linux Distro to Start With is: Ubuntu**<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux. This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.|
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-**Beyond here is in the early stages of fleshing out**
-
 # Lab Set Ups and Advice
 
 There are two approaches to having a lab environment:
@@ -298,6 +298,14 @@ There are a ton more I am not recognizing here but this will get you started.  W
 - Hackable?
 - Breach
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**Beyond here is in the early stages of fleshing out**
+
 # Career Paths and Guidance
 
 Recommended certs below are merely recommendations and in now way should this list be taken as all inclusive or a rule to be followed.  It also in no way guaruntees successful employment in the respective fields.
@@ -311,7 +319,7 @@ For the SANS recommended pathway you should see [their official guidance](https:
 |Recommendation|List|
 |---|---|
 |**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>Linux +|
-|**SKILLSETS**|<li>Linux Power User and Administration<li>BASH<li>Python<li>Networking|
+|**SKILLSETS**|<li>Linux Power User and Administration<li>BASH<li>Python<li>Networking<li>Cloud Technologies (AWS and or Azure)|
 
 ## Defensive Forensics and Incident Response (DFIR)
 
