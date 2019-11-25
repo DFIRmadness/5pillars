@@ -247,6 +247,7 @@ A SANS cert is recognized immediately by members of the industry as truly demons
 - [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 - [Tyler Hudak / BDS Podcast](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+- [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
 
 ## Twitter Accounts and Personalites
 
@@ -273,6 +274,7 @@ No particular order.
 - Malware Unicorn (@malwareunicorn)
 - Malware Breakdown (@DynamicAnalysis)
 - SANS Institute (@SANSInstitute)
+- Ben Sadeghipour (@NahamSec)
 
 There are a ton more I am not recognizing here but this will get you started.  Welcome to the community!
 
