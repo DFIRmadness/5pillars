@@ -38,9 +38,10 @@ Before you start:  Perhaps Penetration Testing is all that interests you - or "c
 Now on to the document...
 
 # readme.txt
+
 This document is a path forward for new, and experienced, cyber professionals to obtaining a concrete foundation of knowledge to enable them for success in the industry.  Mastering the basics of each functional area is required to operate on a cyber team (or alone) in a meaningful and effective way.  A lack of fundamentals in any one pillar can quickly render a team member ineffective during dynamic and rapidly evolving situations.  Conversely, no one person on the team should be, or can be, a cyber unicorn.
 
-Ideally, everyone will have a specialty they excel at in addition to a solid baseline in the fundamentals.  It should not be expected that every one completely masters each pillar.  The intent is to master the fundamentals.  The fundamentals are simply primal blocks of knowledge of each topic; somewhere between the absolute basics and intermediate.  As an example, a team member should understand: sub-netting, routing, OSI model, packet capture, DNS and analysis basics.  This does not mean they need to be Cisco network engineers with a CCNA.
+Ideally, everyone will have a specialty they excel at in addition to a solid baseline in the fundamentals.  It should not be expected that every one completely master each pillar.  The intent is to master the fundamentals.  The fundamentals are simply primal blocks of knowledge of each topic; somewhere between the absolute basics and intermediate.  As an example, a team member should understand: sub-netting, routing, internetworking, OSI model, packet capture, DNS and analysis basics.  This does not mean they need to be Cisco network engineer with a CCNA.
 
 Layout of the document (roughly):
 
