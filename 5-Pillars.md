@@ -1,7 +1,8 @@
 # The Five Pillars of a Information/Cyber Security Professional
 
 ## TLD;DR:
-To start, or level up, a career in Cyber Security you need to be proficient in five key areas of technical skills.  You don't have to *master* each one of them, but you need to have a good understanding of them.  Whether you want to go offense or defense you will need to be functional in these arena's. The five areas are:
+
+To start, or level up, a career in Cyber Security you need to be proficient in five key areas of technical skills.  You don't have to *master* each one of them, but you need to have a good understanding of them.  Whether you want to go offense or defense you will need to be functional in these five areas:
 
 1. General Computing
 2. Computer Networking
@@ -9,11 +10,13 @@ To start, or level up, a career in Cyber Security you need to be proficient in f
 4. Linux / MacOS
 5. Windows
 
-Don't be scared! While you won't learn it all over night you only need the fundamentals.  If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
+Don't be scared! While you won't learn it all over night you only need the fundamentals.
+
+If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
 
 ### Wait! Wait! Wait! Where is the hacking!? No where in the list is their hacking or security
 
-Correct.  These are the fundamentals that both defense and offense require!  More focused security paths are added to the second section of this document. Build the foundation and then the house.
+Correct.  These are the fundamentals that both defense and offense require!  More focused security paths are added to the second section of this document. Build the foundation and then the house. 
 
 ### A Note about Certifaction Pipelines / Schools
 
