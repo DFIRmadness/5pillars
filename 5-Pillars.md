@@ -347,7 +347,7 @@ For the SANS recommended pathway you should see [their official guidance](https:
 |**CERTIFICATIONS**|<li>SANS Security 610 (GREM)|
 |**SKILLSETS**|<li>Assembly Code<li>Windows Security<li>Linux Security<li>Python<li>Java<li>C<li>HTML|
 
-## Penetrarion Testing
+## Penetration Testing
 
 |Recommendation|List|
 |---|---|
