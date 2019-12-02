@@ -1,8 +1,12 @@
-# The Five Pillars of a Information/Cyber Security Professional
+# The Five Pillars of an Information/Cyber Security Professional
 
 ## TLD;DR:
 
-To start, or level up, a career in Cyber Security you need to be proficient in five key areas of technical skills.  You don't have to *master* each one of them, but you need to have a good understanding of them.  Whether you want to go offense or defense you will need to be functional in these five areas:
+"Mastering the basics will make you exceptional."
+
+Master the basics and then specialize to be an invaluable asset to your team.
+
+To start, or level up, a career in Information Security (aka Cyber) Security you need to be proficient in five key areas of technical skills.  You don't have to *master* each one of them, but you need to have a good understanding of them.  Whether you want to go offense or defense you will need to be functional in these five areas:
 
 1. General Computing
 2. Computer Networking
@@ -13,6 +17,10 @@ To start, or level up, a career in Cyber Security you need to be proficient in f
 Don't be scared! While you won't learn it all over night you only need the fundamentals.
 
 If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
+
+***
+
+## Quick FAQ
 
 ### Wait! Wait! Wait! Where is the hacking!? No where in the list is their hacking or security
 
@@ -40,7 +48,9 @@ Before you start:  Perhaps Penetration Testing is all that interests you - or "c
 
 Now on to the document...
 
-# readme.txt
+********
+
+## readme.txt
 
 This document is a path forward for new, and experienced, cyber professionals to obtaining a concrete foundation of knowledge to enable them for success in the industry.  Mastering the basics of each functional area is required to operate on a cyber team (or alone) in a meaningful and effective way.  A lack of fundamentals in any one pillar can quickly render a team member ineffective during dynamic and rapidly evolving situations.  Conversely, no one person on the team should be, or can be, a cyber unicorn.
 
@@ -52,6 +62,8 @@ Layout of the document (roughly):
 2. Lab Set Up Advice
 3. Security Focused Training and Immersion
 4. Security Career Pathways
+
+***
 
 ## Security Tips to Get Started
 
@@ -66,6 +78,8 @@ As you dive into security you should start with good security practices.
 7. Use a password manager and have unique passwords for everything
 8. Use passphrases when able.  Example: 1DeerCloudSubmarine91* [XKCD Password Generator](https://xkpasswd.net/s/)
 
+***
+
 ## What You Need (Equipment)
 
 You do not need a $3000 Gaming Laptop or a Desktop with 2 GPU's and 10 TB SSD.  This is completely based on your budget.  You can get away with a $500 laptop if needed. I will explain.
@@ -78,7 +92,9 @@ You do not need a $3000 Gaming Laptop or a Desktop with 2 GPU's and 10 TB SSD.  
 
 **Note**: A GPU is mentioned for password cracking.  You absolutely DO NOT NEED ONE to learn or level up cyber security.  Keep in mind this document is about learning and labs you encounter will be geared towards this anyhow.  You get the same training value in cracking a simple password with your CPU as you do with letting a GPU pound on a hash for 2 weeks.
 
-# The Five Pillars (Functional Areas) of Cyber Security
+***
+
+## The Five Pillars (Functional Areas) of Cyber Security
 
 1. General Computing
 2. Computer Networking
@@ -86,7 +102,8 @@ You do not need a $3000 Gaming Laptop or a Desktop with 2 GPU's and 10 TB SSD.  
 4. Windows
 5. Linux
 
-## Fundamentals Breakdown
+### Fundamentals Breakdown
+
 The following are key skill sets within each pillar.  It is not an exhaustive list.
 
 |Pillar aka Functional Area|Skills|
@@ -99,7 +116,7 @@ The following are key skill sets within each pillar.  It is not an exhaustive li
 
 Yes.  That is a lot.  First, to be good in this industry you will want to be *familiar* with each of these things and beyond.  You will not learn it all over night nor should you try.  Just refer back to this often as a guide.  Be patient. Enjoy the journey.
 
-## Desired Endstate of Each Pillar
+### Desired Endstate of Each Pillar
 
 The following are goals to shoot for in each area.  If you can meet each of these you will be a competent professional ready to shine at interviews and be an asset to any team you join.
 
@@ -115,13 +132,13 @@ The following are goals to shoot for in each area.  If you can meet each of thes
 
 These goals above are a good measure of when you are ready to deep dive into a specific security path of learning (and of course have fun and sprinkle in security lessons along the way).
 
-## A Note About Certifications
+### A Note About Certifications
 
 Certifications are a necessity in this industry.  They are far more valuable than a college degree.  That said, don't be a paper tiger where you have a list of certifications and no idea what you are actually doing.  Also- do not fall for the cert farm trap.  These companies that promise you a career is only 5 weeks (or even a few months) away, and that for $20K they will get you there by ram rodding you through A+, Net+, Sec+, and CEH.  They are practically stealing your money.  If you find a place that will teach you essentially the fundamentals laid out here ask to talk to alumni and ensure the instructors are actual industry professionals.
 
 There will be certs listed in this document at times.  For general studies understand that most of the certs mentioned are just great bodies of knowledge to get materials from but the cert itself is not necessary.
 
-### Certs to Shoot for Early On
+#### Certs to Shoot for Early On
 
 GSEC or Sec+.
 
@@ -133,18 +150,20 @@ GSEC or Sec+.
 
 The trick when you are first starting out is to find an employer willing to pay for the certs you need or want.  Get it in writing.  If you can't then understand than the investment of paying for an initial cert or two to get a job will be an investment that will almost certainly have great returns.
 
-# Resources:  How Do We Get 'There'?
+***
+
+## Resources:  How Do We Get 'There'?
 
 Now may be a good time to think on *how* you approach learning this mountain of information. [How to learn anything...fast by Josh Kaufman](https://www.youtube.com/watch?v=EtJy69cEOtQ).
 
-## General Approach
+### General Approach
 
 - Start free and cheap to see if you like it.  You may find it isn't for you.
 - While studying the five functional areas ensure you are getting hands on keyboard and not just your nose in a book.  Do both!  Also - sprinkle in security lessons along with your general studies.  Also, try and rotate through the five continuously so you are leveling up in them all somewhat evenly.  Of course, you can do it in a serial fashion (in order one through five) if you want.  However, these skills are perishable. This means if you go through in order and haven't touched networking in 5 months (or 2 books ago) it is going to be rusty and you will have to relearn it!!!
 - Try and have fun!
 - Keep an eye out for things you think you may be passionate about!  You will want to specialize later on.
 
-## Recommended Security Focused Resources to go with General Studies
+### Recommended Security Focused Resources to go with General Studies
 
 ### Hack and Detect: Leveraging the Cyber Kill Chain for Practical Hacking and its Detection via Network Forensics
 
@@ -158,7 +177,7 @@ The book to start with: [Hack and Detect](https://www.amazon.com/Learning-Practi
 
 [The Cyber Mentor](https://www.thecybermentor.com/beginner-linux-for-ethical-hackers): hands down is one of the first people you should start watching as you build your skill sets.  He focuses on Penetration Testing.  He, along with the community he has created in discord etc., will be a great place to find motivation, knowledge and support. Even if you want to go blue side / foreniscs etc. you will need an understanding of how people pentrating networks etc. move through the network and he does a superb job of teaching and explaining.
 
-## General Studies Resources
+### General Studies Resources
 
 These resources will have materials for all or multiple pillars.
 
@@ -173,7 +192,7 @@ These resources will have materials for all or multiple pillars.
 
 There are so many more amazing people and channels that I will list later in the *Security Specific* Section later.
 
-## Pillar Specific Resources
+### Pillar Specific Resources
 
 A Quick Table.  Certs listed here are only pointers to good sources of learning material. In most cases the first few chapters are probably what you need and then specific topic lookups.
 
@@ -185,14 +204,16 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 |Windows|<li>[ITPro.tv Windows Server Windows 101](https://app.itpro.tv/course-library/server-101/overview-server101/) - GREAT intro course into Windows Servers and Administration. Comes with the assosciated E-Book!<li>[ITPro.tv PoSh Basics](https://app.itpro.tv/course-library/powershell-2017/2017/) - ITPro's take on PowerShell. Great course.<li>[PoSh-Hunter](https://posh-hunter.com/) - A jeopardy style Capture The Flag game to learn PowerShell for InfoSec nerds.<li>[Microsoft Video Series on PowerShell](https://www.youtube.com/playlist?list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si) - Another great video series on PowerShell.<li>[Microsoft Virtual Academy Active Directory Course](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ) - A video series on Active Directory from Microsoft.<li>[Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.<li> Remember the targeted fundamentals here... you do not need to be an MCSA (Msoft Certified Systems Admin.) to get started.|
 |Linux|**Recommended Linux Distro to Start With is: Ubuntu**<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux. This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.|
 
-# Lab Set Ups and Advice
+***
+
+## Lab Set Ups and Advice
 
 There are two approaches to having a lab environment:
 
 1. Local
 2. Remote
 
-## Local Lab
+### Local Lab
 
 A local lab is built either on your laptop or home built server.  Again, budget dependent.  Building a local lab is actually pretty easy and the process alone will teach you quite a bit.  The world is using a lot of virtualized systems and networks.  Any progress in learning you make here will be a win either way.
 
@@ -203,7 +224,7 @@ To build a local lab on your laptop you will need either of the following (yes t
 
 Sadly, you get what you pay for here.  While Virtual Box works fine enough it is certainly no VMware.  You will save hours of troubleshooting and work arounds with VMWare.  It is expensive.  Though its probably a legal gray area, you can find keys for cheap on E-Bay.  The [Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) is good crash course on setting up a security lab.  There are a ton of youtube walk throughs and blogs on how to do this.  More will be added here in the future.
 
-### Local Lab Cyber Range Set-Up Overview
+#### Local Lab Cyber Range Set-Up Overview
 
 A well outfitted local cyber range that can run on a laptop may look something like this:
 
@@ -214,13 +235,13 @@ A well outfitted local cyber range that can run on a laptop may look something l
 
 The Kali machine can be moved into the Internal Subnet for "Internal Pentesting" etc.
 
-### Where to Get Vulnerable VM's
+#### Where to Get Vulnerable VM's
 
 [Vuln Hub](https://www.vulnhub.com/) - A collection of vulnerable virtual machines for your home lab given for free and include a lot of awesome walk-through's to learn from.
 
 [Vuln Hubs Guide to Building A Lab](https://www.vulnhub.com/lab/) - A guided tour on building a home pentesting lab.
 
-## Remote Labs
+### Remote Labs
 
 Another great resource are lab networks set-up and maintained for you to VPN into and go after vulnerable servers or follow along with exercises.
 
@@ -230,7 +251,9 @@ Another great resource are lab networks set-up and maintained for you to VPN int
 
 [PenTester Labs](https://pentesterlab.com/) - These are great labs! They are pentesting focused but they have a lot other skills and labs for building your base knowledge.  Once you get a membership you download walkthroughs and an accompanying ISO (a virtual machine image).
 
-# Security Specific Studies and InfoSec Immersion
+***
+
+## Security Specific Studies and InfoSec Immersion
 
 **Start your immersion immediately!**
 
@@ -239,21 +262,24 @@ stuff)
 
 [Vuln Hubs List of Resources](https://www.vulnhub.com/) - A great list of security specific resources!
 
-## Training Companies
+### Training Companies
 
 [SANS!](https://www.sans.org/) - Hands down the best security training on the planet!  Instructors are highly vetted security professionals with time in the trenches in the area of studies that they teach.  They are pricey. **HINT**: If you can't afford $6-8K a course then look up how to become a [SANS facilitator](https://www.sans.org/work-study/).  By volunteering your time and efforts to help the classes happen you can get a course for about $1500 which is a steal!
 
 A SANS cert is recognized immediately by members of the industry as truly demonstrating that the beholder really understands the topic and can execute the skills assosciated.
 
-## Youtube Channels and Personalities
+### Youtube Channels and Personalities
 
-- [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-- [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-- [Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-- [Tyler Hudak / BDS Podcast](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-- [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
+- [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy breaks down complex hacking concepts into smaller easier concepts.  He is a good teacher and entertaining.
+- [IPPSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - One *the* best at cracking open boxes on Hack The Box and a great teacher.
+- [Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - One the best teachers of penetration testing on the internet.  He really gears his videos towards beginners with plenty of new tricks for more experienced folks to pick up.
+- [Pauls Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg) - Security Weekly is one the best podcasts to watch.  The Friday shows have great tech segments. The entire show is informative and entertaining.
+- [Brakeing Down Security \(BDS\) Podcast](https://www.youtube.com/channel/UCZFjAqFb4A60M1TMa0t1KXw) - The BDS Podcast is one of the best places to stay up with current security trends.
+- [BDS Videos](https://www.youtube.com/playlist?list=PLqJHxwXNn7guMA6hnzex-c12q0eqsIV_K) - Look around here.  There are a ton of free training courses and other gems buried through out.
+- [Tyler Hudak Reverse Engineer Training](https://www.youtube.com/watch?v=GYam_nJKr6E) - A great class that is free!  Tyler Hudak is one of the best in the industry and is also a great teacher.
+- [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - A very talented and successful bug bounty hunter and hacker who loves to share techniques with his audiences.
 
-## Twitter Accounts and Personalites
+### Twitter Accounts and Personalites
 
 No particular order.
 
@@ -282,16 +308,16 @@ No particular order.
 
 There are a ton more I am not recognizing here but this will get you started.  Welcome to the community!
 
-## Slack Channels
+### Slack Channels
 
 - BDS
 
-## Discord Channels
+### Discord Channels
 
 - Cyber Mentor
 - Hack the Box
 
-## Podcasts
+### Podcasts
 
 - Darknet Diaries
 - Pauls Security Weekly
@@ -311,7 +337,9 @@ There are a ton more I am not recognizing here but this will get you started.  W
 
 **Beyond here is in the early stages of fleshing out**
 
-# Career Paths and Guidance
+***
+
+## Career Paths and Guidance
 
 Recommended certs below are merely recommendations and in now way should this list be taken as all inclusive or a rule to be followed.  It also in no way guaruntees successful employment in the respective fields.
 
@@ -319,35 +347,35 @@ Recommended certs below are merely recommendations and in now way should this li
 
 For the SANS recommended pathway you should see [their official guidance](https://www.sans.org/cyber-security-career-roadmap).  They have a recommended [road map](https://www.sans.org/cyber-security-skills-roadmap).
 
-## Engineering
+### Engineering
 
 |Recommendation|List|
 |---|---|
 |**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>Linux +|
 |**SKILLSETS**|<li>Linux Power User and Administration<li>BASH<li>Python<li>Networking<li>Cloud Technologies (AWS and or Azure)|
 
-## Defensive Forensics and Incident Response (DFIR)
+### Defensive Forensics and Incident Response (DFIR)
 
 |Recommendation|List|
 |---|---|
 |**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>SANS Forensics 500 (GCFE)<li>SANS Forensics 508 (GCFA)<li>SNAS Forensics 501 (GCED)<li>SANS Forensics 504 (GCIH)<li>SANS Forensics 503 (GCIA)<li>SEC +<li>CySA +|
 |**SKILLSETS**|<li>Linux Power User<li>Linux Security<li>Windows Power User<li>Windows Security<li>Digital Forensics<li>Windows Systems Internals<li>Memory Forenics<li>Networking|
 
-## Threat Hunting
+### Threat Hunting
 
 |Recommendation|List|
 |---|---|
 |**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>SANS Forensics 504 (GCIH)<li>SANS Forensics 500 (GCFE)<li>SANS Forensics 508 (GCFA)<li>SANS Forensics 572 (GNFA)<li>SANS Forensics 503 (GCIA)<li>SEC +<li>CySA +|
 |**SKILLSETS**|<li>Linux Power User<li>Linux Security<li>Windows Power User<li>Windows Security<li>Digital Forensics<li>Windows Systems Internals<li>Memory Forenics<li>Threat Intelligence Consumption<li>Security Automation<li>Networking|
 
-## Malware Reverse Engineer
+### Malware Reverse Engineer
 
 |Recommendation|List|
 |---|---|
 |**CERTIFICATIONS**|<li>SANS Security 610 (GREM)|
 |**SKILLSETS**|<li>Assembly Code<li>Windows Security<li>Linux Security<li>Python<li>Java<li>C<li>HTML|
 
-## Penetrarion Testing
+### Penetrarion Testing
 
 |Recommendation|List|
 |---|---|
