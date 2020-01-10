@@ -19,8 +19,7 @@ Don't be scared! While you won't learn it all over night you only need the funda
 If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
 
 ***
-
-## Quick FAQ
+## Quick FAQ(ish)
 
 ### Wait! Wait! Wait! Where is the hacking!? No where in the list is their hacking or security
 
@@ -64,6 +63,20 @@ Layout of the document (roughly):
 4. Security Career Pathways
 
 ***
+whoami
+
+Twitter: @JamesOfStark
+
+- Veteran
+- Former pilot
+- Senior Information Security Professional
+- Perpetual n00b (always learning)
+- Adjunct Professor
+- Aspiring SANS Instructor
+
+I have seen folks in multiple industries who would be rockstars if they had a solid mastery of all the basics and not simply pigeon holed into one niche of the field.
+
+***
 
 ## Security Tips to Get Started
 
@@ -72,7 +85,7 @@ As you dive into security you should start with good security practices.
 1. Don't pirate software
 2. Always have your Admin Account Seperate from your daily driver account
 3. Never click a link you didn't ask for
-4. Never use a free VPN
+4. Never use a free VPN (OK - except maybe Proton's)
 5. Always check executables and files from others at virustotal.com
 6. Use time based multi-factor on critical accounts like e-mail
 7. Use a password manager and have unique passwords for everything
@@ -108,7 +121,7 @@ The following are key skill sets within each pillar.  It is not an exhaustive li
 
 |Pillar aka Functional Area|Skills|
 |---|---|
-|**General Computing**|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<br>Science:<br><li>Threads<li>Processes<li>Process Trees<li>Memory (RAM)<li>Caching<li>Buffers|
+|**General Computing (Basic Computer Science)**|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<br>Science:<br><li>Threads<li>Processes<li>Process Trees<li>Memory (RAM)<li>Caching<li>Buffers|
 |**Networking**|<li>OSI Model<li>TCP/IP Model<li>TCP vs UDP<li>Packet Analysis<li>Packet Capture<li>Routing<li>DNS<li>ARP<li>Subnets<li>VLANS|
 |**Programming and Scripting**|<li>Python<li>Powershell<li>BASH<li>Bonus: C++ or C#|
 |**Windows**|<li>Registry (5 Hives)<li>Volume Shadow Copies<li>UAC<li>Memory Paging<li>.msi vs .exe<li>DLLs<li>RIDs<li>SIDs<li>Tokens<li>Network Profiles<li>Server vs. Workstation<li>Commands: <li>Netstat<li>whoami<li>ping<li>ipconfig<li>Powershell Remoting<li>Tools: Sysinternals<li>Process Hacker.|
@@ -122,7 +135,7 @@ The following are goals to shoot for in each area.  If you can meet each of thes
 
 |Pillar aka Functional Area|Skills|
 |---|---|
-|**General Computing**|Explain the difference between something being stored in memory vs. something stored on disk. Explain the basics of process injection. Explain the difference between killing a thread and killing a process.|
+|**General Computing (Basic Computer Science)**|Explain the difference between something being stored in memory vs. something stored on disk. Explain the basics of process injection. Explain the difference between killing a thread and killing a process.|
 |**Networking**|Using all 7 layers of the OSI model explain how a piece of information flows from your computer to google.com and back when you type `ping google.com`.<li> Explain what a VLAN is and why they are used.<li>Explain what a subnet is and why they are used.<li>Explain the security protections offered by subnets and VLANs|
 |**Programming and Scripting**|Be able to write a basic script to automate a simple task; and be able to read and understand the overall idea of what someone else’s script is attempting to do.|
 |**Windows**|Be able to explain the function of the registry, the UAC, and tokens. Be able to maneuver the OS with command line only and look for network connections and their related processes. Possess basic PowerShell (a.k.a PoSh) abilities|
@@ -198,11 +211,11 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 
 |Pillar|Resources|
 |---|---|
-|General Computing|<li> A+ Cert videos from [Professor Messer](https://www.professormesser.com/) and [ITPro.tv](https://www.itpro.tv/).  Remember the objectives from above.  You aren't actually getting the cert.<li>[Threads v Processes](https://www.youtube.com/watch?v=O3EyzlZxx3g) video from udacity/Georgia Tech<li>[Professor Messer A+](https://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/)<li>Assosciated Certifications (Good references): A+|
-|Networking|<li>[Professor Messer Network+](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)<li>[malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) - Collection of PCAPs filled with evil along free tutorials on how to find it with WireShark<li>Any CCENT (Cisco Certified Entry Networking Technician) Materials in ITPro.TV, Safari Books etc. Typically the first few chapters.  Once it gets deep into iOS (Cisco Op System) specific material you’ve hit the limit of the fundamentals<li>[Todd Lammle Internetworking on ITPro](https://app.itpro.tv/course-library/ccent-updated-2016/internetworking/?tagcategory=course-library&tag=legacy) - Todd Lammle gives an amazing internetworking fundamentals course in 15 minutes.  Watch this often.<li>[ITPro 2018 CCENT Course](https://app.itpro.tv/course-library/ccent-updated-2018/overview-ccent2018/?tagcategory=course-library&tag=cisco) - Remember you aren't getting the cert here, but watch the first few hours.<li>[Microsoft Network Fundamentals](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U) - Concise and to the point!  Excellent videos.<li>Assosciated Certifications (Good references): Net+, CCENT, CCNA|
-|Programming and Scripting|<li>[Learn Python.org](https://www.learnpython.org/)<li>[Under The Wire](https://underthewire.tech) - An awesome CTF to learn PowerShell.  Walkthroughs littered through out the internet if you get stuck.<li>[Code School Season 1](https://www.youtube.com/playlist?list=PLcKpytGyWm9rYbF9URFAjKy2MyWKZe0KS) - Learn to code by following along to make a video game! [Season 2](https://www.youtube.com/watch?v=a_8lfRDls3Y). You don't need to do both seasons or even all of season 1. Remember we are going for the fundamentals.  The more you watch and learn the better, but its not necessary to be a developer to get into Cyber Security.<li>[Microsoft Instructional videos on programming with Python](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U)|
+|General Computing (Basic Computer Science)|<li> A+ Cert videos from [Professor Messer](https://www.professormesser.com/) and [ITPro.tv](https://www.itpro.tv/).  Remember the objectives from above.  You aren't actually getting the cert.<li>[Threads v Processes](https://www.youtube.com/watch?v=O3EyzlZxx3g) video from udacity/Georgia Tech<li>[Professor Messer A+](https://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/)<li>Assosciated Certifications (Good references): A+|
+|Networking|<li>[Professor Messer Network+](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)<li>[malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) - Collection of PCAPs filled with evil along free tutorials on how to find it with WireShark<li>Any CCENT (Cisco Certified Entry Networking Technician) Materials in ITPro.TV, Safari Books etc. Typically the first few chapters.  Once it gets deep into iOS (Cisco Op System) specific material you’ve hit the limit of the fundamentals<li>[Todd Lammle Internetworking on ITPro](https://app.itpro.tv/course-library/ccent-updated-2016/internetworking/?tagcategory=course-library&tag=legacy) - Todd Lammle gives an amazing internetworking fundamentals course in 15 minutes.  Watch this often.<li>[ITPro 2018 CCENT Course](https://app.itpro.tv/course-library/ccent-updated-2018/overview-ccent2018/?tagcategory=course-library&tag=cisco) - Remember you aren't getting the cert here, but watch the first few hours.<li>[Microsoft Network Fundamentals](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U) - Concise and to the point!  Excellent videos.<li>Assosciated Certifications (Good references): Net+, CCENT, CCNA<li>[Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) - Not only is this software free for personal use but they have some free intro courses there too.|
+|Programming and Scripting|<li>[Learn Python.org](https://www.learnpython.org/)<li>[Under The Wire](https://underthewire.tech) - An awesome CTF to learn PowerShell.  Walkthroughs littered through out the internet if you get stuck.<li>[Code School Season 1](https://www.youtube.com/playlist?list=PLcKpytGyWm9rYbF9URFAjKy2MyWKZe0KS) - Learn to code by following along to make a video game! [Season 2](https://www.youtube.com/watch?v=a_8lfRDls3Y). You don't need to do both seasons or even all of season 1. Remember we are going for the fundamentals.  The more you watch and learn the better, but its not necessary to be a developer to get into Cyber Security.<li>[Microsoft Instructional videos on programming with Python](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U)<li>[EdX Python Course](https://www.edx.org/learn/python) - Free course from top academic and industry leaders.  A good dive into the science behind it.<li> [Googles Python Course](https://developers.google.com/edu/python/)|
 |Windows|<li>[ITPro.tv Windows Server Windows 101](https://app.itpro.tv/course-library/server-101/overview-server101/) - GREAT intro course into Windows Servers and Administration. Comes with the assosciated E-Book!<li>[ITPro.tv PoSh Basics](https://app.itpro.tv/course-library/powershell-2017/2017/) - ITPro's take on PowerShell. Great course.<li>[PoSh-Hunter](https://posh-hunter.com/) - A jeopardy style Capture The Flag game to learn PowerShell for InfoSec nerds.<li>[Microsoft Video Series on PowerShell](https://www.youtube.com/playlist?list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si) - Another great video series on PowerShell.<li>[Microsoft Virtual Academy Active Directory Course](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ) - A video series on Active Directory from Microsoft.<li>[Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.<li> Remember the targeted fundamentals here... you do not need to be an MCSA (Msoft Certified Systems Admin.) to get started.|
-|Linux|**Recommended Linux Distro to Start With is: Ubuntu**<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux. This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.|
+|Linux|**Recommended Linux Distro to Start With is: Ubuntu**<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux. This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.<li> [TCM's Linux Course](https://youtu.be/rZsJieGi8os) - The TCM does it again.  A well thought out course in linux to get you started.<li>[Linux Journey](https://linuxjourney.com/) - An amazing resource! With HTML labs you can do this anywhere on the go.|
 
 ***
 
@@ -306,11 +319,11 @@ No particular order.
 - SANS Institute (@SANSInstitute)
 - Ben Sadeghipour (@NahamSec)
 
-There are a ton more I am not recognizing here but this will get you started.  Welcome to the community!
+There are a ton more I am not recognizing here but this will get you started.  Welcome to the community! And it is a community.  Most hackers out there are some of the best primates on the planet who are willing to help, teach and share.
 
 ### Slack Channels
 
-- BDS
+- **Brakeing Down Security**(BDS) - One the best collections of hackers on the planet.  This is easily one of the best places to hang out and chat, learn and share.  You're never alone with the Internet nearby.  You may soon find that your friends and family have little interest in your new passion.
 
 ### Discord Channels
 
@@ -323,7 +336,7 @@ There are a ton more I am not recognizing here but this will get you started.  W
 - Pauls Security Weekly
 - Security Now
 - Brakeing Down Security
-- Brakeing Down Incident Response
+- Brakeing Down Incident Response (It seems dead now but still worth listening to over and over again)
 - SANS Internet Storm Center
 - The Cyber Wire
 - Smashing Security
@@ -340,6 +353,33 @@ There are a ton more I am not recognizing here but this will get you started.  W
 ***
 
 ## Career Paths and Guidance
+
+### How to Decide
+
+As you work on the fundamentals you will almost certainly come across various aspects of security that interest you.  All of the following are simply a different flavor of hacker.  They are all vital for any team to function.  A ***general*** lay out of the roles in the security field are (no particular order):
+
+#### Red (Offensive Security):
+- **Penetration Tester** - They find and validate vulnerabilities in networks and web applications by demonstrating an attack on that vulnerability.
+- **Exploit Developer** - They find vulnerabilities in software and develop exploits to give an attacker unauthorized access to the software or the underlying system.
+- **Red Team** - Similar to Penetration Testers except the aim is to not simply validate a vulnerability, but to emulate a realistic threat to that particular environment.  Most likely this means a longer time period for them to operate low and slow to avoid detection and remain in the network for a long(er) period of time.
+
+**Note**: Offensive teams (white hat and black hat alike) are typically made up of specialists.  A rough outline of that looks something like this:
+
+- Entry Team - The initial exploitation to team to get access.
+- Developers - The team ready to develop custom malware as needed
+- Post Exploitation Team - A collection of folks who are fast at Privilege Escalation and lateral movement.
+
+#### Blue (Defensive Security):
+- **Security Operations Center Analyst** - They analyze alerts from intrusion detection sensors and find the root cause of the issue to detect if it is an anomaly or a malicious actor.
+- **Security Engineer** - They design and build solutions to support security objectives and requirements.
+- **Developer** - Often just another blend of Engineer or even the same title; they automate defesnse systems and things like forensics triage.
+- **Forensic Analyst** - 
+- **Incident Responder** - 
+- **Threat Hunter** - 
+
+### General Bodies of Knowledge Per Role
+
+None of this is "law".
 
 Recommended certs below are merely recommendations and in now way should this list be taken as all inclusive or a rule to be followed.  It also in no way guaruntees successful employment in the respective fields.
 
