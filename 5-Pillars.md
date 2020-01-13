@@ -82,14 +82,14 @@ I have seen folks in multiple industries who would be rockstars if they had a so
 
 As you dive into security you should start with good security practices.
 
-1. Don't pirate software
-2. Always have your Admin Account Seperate from your daily driver account
-3. Never click a link you didn't ask for
-4. Never use a free VPN (OK - except maybe Proton's)
-5. Always check executables and files from others at virustotal.com
-6. Use time based multi-factor on critical accounts like e-mail
-7. Use a password manager and have unique passwords for everything
-8. Use passphrases when able.  Example: 1DeerCloudSubmarine91* [XKCD Password Generator](https://xkpasswd.net/s/)
+1. Don't pirate software.
+2. Always have your Admin Account seperate from your daily driver account.
+3. Never click a link you didn't ask for.
+4. Never use a free VPN (OK - except maybe Proton's).
+5. Always check executables and files from others at virustotal.com.
+6. Use time based multi-factor on critical accounts like e-mail.
+7. Use a password manager and have unique passwords for everything.
+8. Use passphrases when able.  Example: 1DeerCloudSubmarine91* [XKCD Password Generator](https://xkpasswd.net/s/).
 
 ***
 
@@ -433,8 +433,9 @@ It seems that if you want to become an offensive focused hacker there are a ton 
 
 Topic|Links
 ---|---
-Labs / Vulnerable Machines | .
+Labs / Vulnerable Machines | <li> [Hack The Box](https://www.hackthebox.eu/) - Seriously one of the best places to hang out, learn, have fun, and meet other hackers - oh... and loads of vulnerable machines.  Their discord is invaluable. <li> [Vulnhub](https://www.vulnhub.com/) - Clearing house of vulnerable machines. <li> [Juice Shop](https://www2.owasp.org/www-project-juice-shop/) - One of the greatest projects to teach you Web App Hacking.  The VulnWeb App for your own range along with walkthroughs.<li> [Lesser Known Web Attack lab (LKWA)](https://github.com/weev3/LKWA) <li> [Damn Vulnerable Web App DVWA](https://github.com/ethicalhack3r/DVWA)
 WiFi Hacking | .
+Web Application Hacking | .
 Scanning | .
 Using Exploits |.
 Developiong Exploits | .
