@@ -65,7 +65,7 @@ Layout of the document (roughly):
 ***
 whoami
 
-Twitter: @JamesOfStark
+Twitter: @DFIRmadness
 
 - Veteran
 - Former pilot
@@ -213,7 +213,7 @@ A Quick Table.  Certs listed here are only pointers to good sources of learning 
 |---|---|
 |General Computing (Basic Computer Science)|<li> A+ Cert videos from [Professor Messer](https://www.professormesser.com/) and [ITPro.tv](https://www.itpro.tv/).  Remember the objectives from above.  You aren't actually getting the cert.<li>[Threads v Processes](https://www.youtube.com/watch?v=O3EyzlZxx3g) video from udacity/Georgia Tech<li>[Professor Messer A+](https://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/)<li>Assosciated Certifications (Good references): A+|
 |Networking|<li>[Professor Messer Network+](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)<li>[malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) - Collection of PCAPs filled with evil along free tutorials on how to find it with WireShark<li>Any CCENT (Cisco Certified Entry Networking Technician) Materials in ITPro.TV, Safari Books etc. Typically the first few chapters.  Once it gets deep into iOS (Cisco Op System) specific material you’ve hit the limit of the fundamentals<li>[Todd Lammle Internetworking on ITPro](https://app.itpro.tv/course-library/ccent-updated-2016/internetworking/?tagcategory=course-library&tag=legacy) - Todd Lammle gives an amazing internetworking fundamentals course in 15 minutes.  Watch this often.<li>[ITPro 2018 CCENT Course](https://app.itpro.tv/course-library/ccent-updated-2018/overview-ccent2018/?tagcategory=course-library&tag=cisco) - Remember you aren't getting the cert here, but watch the first few hours.<li>[Microsoft Network Fundamentals](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U) - Concise and to the point!  Excellent videos.<li>Assosciated Certifications (Good references): Net+, CCENT, CCNA<li>[Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) - Not only is this software free for personal use but they have some free intro courses there too.|
-|Programming and Scripting|<li>[Learn Python.org](https://www.learnpython.org/)<li>[Under The Wire](https://underthewire.tech) - An awesome CTF to learn PowerShell.  Walkthroughs littered through out the internet if you get stuck.<li>[Code School Season 1](https://www.youtube.com/playlist?list=PLcKpytGyWm9rYbF9URFAjKy2MyWKZe0KS) - Learn to code by following along to make a video game! [Season 2](https://www.youtube.com/watch?v=a_8lfRDls3Y). You don't need to do both seasons or even all of season 1. Remember we are going for the fundamentals.  The more you watch and learn the better, but its not necessary to be a developer to get into Cyber Security.<li>[Microsoft Instructional videos on programming with Python](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U)<li>[EdX Python Course](https://www.edx.org/learn/python) - Free course from top academic and industry leaders.  A good dive into the science behind it.<li> [Googles Python Course](https://developers.google.com/edu/python/)|
+|Programming and Scripting|<li>[Learn Python.org](https://www.learnpython.org/)<li>[Under The Wire](https://underthewire.tech) - An awesome CTF to learn PowerShell.  Walkthroughs littered through out the internet if you get stuck.<li>[Code School Season 1](https://www.youtube.com/playlist?list=PLcKpytGyWm9rYbF9URFAjKy2MyWKZe0KS) - Learn to code by following along to make a video game! [Season 2](https://www.youtube.com/watch?v=a_8lfRDls3Y). You don't need to do both seasons or even all of season 1. Remember we are going for the fundamentals.  The more you watch and learn the better, but its not necessary to be a developer to get into Cyber Security.<li>[Microsoft Instructional videos on programming with Python](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U)<li>[EdX Python Course](https://www.edx.org/learn/python) - Free course from top academic and industry leaders.  A good dive into the science behind it.<li> [Googles Python Course](https://developers.google.com/edu/python/)<li>[Learn Python The Hardway](https://learnpythonthehardway.org/book/)|
 |Windows|<li>[ITPro.tv Windows Server Windows 101](https://app.itpro.tv/course-library/server-101/overview-server101/) - GREAT intro course into Windows Servers and Administration. Comes with the assosciated E-Book!<li>[ITPro.tv PoSh Basics](https://app.itpro.tv/course-library/powershell-2017/2017/) - ITPro's take on PowerShell. Great course.<li>[PoSh-Hunter](https://posh-hunter.com/) - A jeopardy style Capture The Flag game to learn PowerShell for InfoSec nerds.<li>[Microsoft Video Series on PowerShell](https://www.youtube.com/playlist?list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si) - Another great video series on PowerShell.<li>[Microsoft Virtual Academy Active Directory Course](https://www.youtube.com/watch?v=RPzcxdiyVCM&list=PLsrZV8shpwjOtIz4LFKFQ6uoCt7RowYUZ) - A video series on Active Directory from Microsoft.<li>[Cyber Mentors Active Directory Hacking Lab](https://youtu.be/_OseTyfXr3Q) - Admittedly outside the "general studies" path here but a good one on setting the AD lab up and quick intro, then hacking it.<li> Remember the targeted fundamentals here... you do not need to be an MCSA (Msoft Certified Systems Admin.) to get started.|
 |Linux|**Recommended Linux Distro to Start With is: Ubuntu**<li>[Over The Wire Bandit](https://overthewire.org/wargames/bandit/) - The most fun way to learn Linux. This site has many other goodies beyond Bandit games.  Levels 0-10 are a solid intro into linux.<li>[Kali Linux Revealed Free Legit PDF Downlaod](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - An extensive and **FREE** professional book on using linux!<li>[ITPro.tv Becoming A Linux Power User](https://www.itpro.tv/courses/linux/becominglinux-power-user/) - A great video series to level up zero's, beginners and intermediate users.<li> [TCM's Linux Course](https://youtu.be/rZsJieGi8os) - The TCM does it again.  A well thought out course in linux to get you started.<li>[Linux Journey](https://linuxjourney.com/) - An amazing resource! With HTML labs you can do this anywhere on the go.|
 
@@ -342,14 +342,13 @@ There are a ton more I am not recognizing here but this will get you started.  W
 - Smashing Security
 - Hackable?
 - Breach
-
-<br>
-<br>
-<br>
+***
 <br>
 
-**Beyond here is in the early stages of fleshing out**
+## Beyond here is in the early stages of fleshing out
 
+1. Career Paths and Guidance
+2. Materials for Moving Beyond Foundations (to the Hacking!!)
 ***
 
 ## Career Paths and Guidance
@@ -421,3 +420,35 @@ For the SANS recommended pathway you should see [their official guidance](https:
 |---|---|
 |**CERTIFICATIONS**|<li>SANS Security 401 (GSEC)<li>Offensive Security Certified Professional<li>Offesnive Security Certified Engineer<li>SANS Network Penetration Testing SEC560 (GPEN)<li>SANS Web Application Penetration Testing SEC542 (GWAPT)<li>Penetration Test +|
 |**SKILLSETS**|<li>Linux Power User<li>Linux Security<li>Windows Security<li>Python<li>BASH<li>Networking<li>Windows Security<li>Windows Sys Internals|
+
+***
+## Beyond Foundations and Onto Hacking!
+
+It seems that if you want to become an offensive focused hacker there are a ton of free lab materials and instruction. If you want to focus on the blue team / defensive skillsets it seems to come down to paying a lot of money or reading a lot of books.  E-Learn Security has some Blue Team focused courses that look appealing but I have not personally tested them.
+
+1. Red
+2. Blue
+
+### Red
+
+Topic|Links
+---|---
+Labs / Vulnerable Machines | .
+WiFi Hacking | .
+Scanning | .
+Using Exploits |.
+Developiong Exploits | .
+Privilege Escalation | .
+Persistence | .
+Lateral Movement | .
+
+### Blue
+
+Topic|Links
+---|---
+Infrastructure Build Out | .
+SIEM Building | .
+Logs Analysis | .
+Threat Intel | .
+Threat Hunting | .
+Incident Response | .
