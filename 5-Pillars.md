@@ -14,6 +14,8 @@ To start, or level up, a career in Information Security (aka Cyber) Security you
 4. Linux / MacOS
 5. Windows
 
+**Note**: I did not come up with the 5 pillars idea on my own.  I *believe* I heard this originally during a conference call with someone from SANS the CyberStart program.  I am not entirely sure of that or if the 5 above are the original 5 laid out.  I *do* remember hearing the 5 areas (or close to these) laid out and it immediately fit into my believe system of mastering the basics to become exceptional.  That idea was hammered home during a good butt chewing delivered during Special Forces training where the instructor told us between flutter kicks and sprints, "We look special because we master the basics".  I have applied to this every complex task I have learned from flying helicopters to hacking and it has served me well.
+
 Don't be scared! While you won't learn it all over night you only need the fundamentals.
 
 If you want to accel in this industry you must also **love** learning.  While it takes a lot of dedication a healthy balance is key.  Make sure your family and friends get time with you, or that you make time to do hobbies you love.
