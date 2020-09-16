@@ -107,6 +107,7 @@ You do not need a $3000 Gaming Laptop or a Desktop with 2 GPU's and 10 TB SSD.  
 
 **Note**: A GPU is mentioned for password cracking.  You absolutely DO NOT NEED ONE to learn or level up cyber security.  Keep in mind this document is about learning and labs you encounter will be geared towards this anyhow.  You get the same training value in cracking a simple password with your CPU as you do with letting a GPU pound on a hash for 2 weeks.
 
+Bonus: Getting a cheap USD10 USB Wi-Fi card will allow you to play with wireless security from virtual machines
 ***
 
 ## The Five Pillars (Functional Areas) of Cyber Security
@@ -124,10 +125,10 @@ The following are key skill sets within each pillar.  It is not an exhaustive li
 |Pillar aka Functional Area|Skills|
 |---|---|
 |**General Computing (Basic Computer Science)**|Hardware Components: <li>CPU<li>RAM<li>SSD/HDD<br>Science:<br><li>Threads<li>Processes<li>Process Trees<li>Memory (RAM)<li>Caching<li>Buffers|
-|**Networking**|<li>OSI Model<li>TCP/IP Model<li>TCP vs UDP<li>Packet Analysis<li>Packet Capture<li>Routing<li>DNS<li>ARP<li>Subnets<li>VLANS|
+|**Networking**|<li>OSI Model<li>TCP/IP Model<li>TCP vs UDP<li>Packet Analysis<li>Packet Capture<li>Routing<li>DNS<li>ARP / NDP <li>Subnets<li>VLANS / Switching|
 |**Programming and Scripting**|<li>Python<li>Powershell<li>BASH<li>Bonus: C++ or C#|
 |**Windows**|<li>Registry (5 Hives)<li>Volume Shadow Copies<li>UAC<li>Memory Paging<li>.msi vs .exe<li>DLLs<li>RIDs<li>SIDs<li>Tokens<li>Network Profiles<li>Server vs. Workstation<li>Commands: <li>Netstat<li>whoami<li>ping<li>ipconfig<li>Powershell Remoting<li>Tools: Sysinternals<li>Process Hacker.|
-|**Linux**|<li>Directory Hierarchy<li>sudo accounts<li>/etc/shadow and /etc/passwd<li>ssh<li>telnet<li>ftp<li>Software Repositories<li>Be Familiar with Distributions: Kali, Debian, Ubuntu, CentOS, RedHat<li>Commands: w, find, whoami, which, who, ss, watch, ssh, lsof, ssh-add, top, htop, sudo, nano and vim.|
+|**Linux**|<li>Directory Hierarchy<li>sudo accounts<li>/etc/shadow and /etc/passwd<li>ssh<li>telnet<li>ftp<li>Software Repositories<li>Be Familiar with Distributions: Kali, Debian, Ubuntu, CentOS, RedHat<li>Commands: w, find, id, whoami, which, who, ss, watch, ssh, lsof, netstat, ssh-add, top, htop, sudo, nano and vim.|
 
 Yes.  That is a lot.  First, to be good in this industry you will want to be *familiar* with each of these things and beyond.  You will not learn it all over night nor should you try.  Just refer back to this often as a guide.  Be patient. Enjoy the journey.
 
