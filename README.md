@@ -1,4 +1,4 @@
-# Hey There!
+# Welcome into cyber security world!
 This document spawned an entire website. Check it out at: [DFIRmadness.com](https://dfirmadness.com). We have labs, articles and resources like this! See you over there.
 
 # 5pillars
