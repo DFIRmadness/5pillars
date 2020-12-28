@@ -1,6 +1,6 @@
 #Hey There!
 
-**This document spawned an entire website. Check it out at: DFIRmadness.com. We have labs, articles and resources like this! See you over there.**
+**This document spawned an entire website. Check it out at: [DFIRmadness.com](https://dfirmadness.com). We have labs, articles and resources like this! See you over there.**
 
 # The Five Pillars of an Information/Cyber Security Professional
 
