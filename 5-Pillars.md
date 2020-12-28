@@ -1,3 +1,7 @@
+#Hey There!
+
+**This document spawned an entire website. Check it out at: DFIRmadness.com. We have labs, articles and resources like this! See you over there.**
+
 # The Five Pillars of an Information/Cyber Security Professional
 
 ## TLD;DR:
@@ -23,7 +27,7 @@ If you want to accel in this industry you must also **love** learning.  While it
 ***
 ## Quick FAQ(ish)
 
-### Wait! Wait! Wait! Where is the hacking!? No where in the list is their hacking or security
+### Wait! Wait! Wait! Where is the hacking!? No where in the list is there hacking or security
 
 Correct.  These are the fundamentals that both defense and offense require!  More focused security paths are added to the second section of this document. Build the foundation and then the house. 
 
