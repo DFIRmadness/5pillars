@@ -297,6 +297,7 @@ A SANS cert is recognized immediately by members of the industry as truly demons
 - [BDS Videos](https://www.youtube.com/playlist?list=PLqJHxwXNn7guMA6hnzex-c12q0eqsIV_K) - Look around here.  There are a ton of free training courses and other gems buried through out.
 - [Tyler Hudak Reverse Engineer Training](https://www.youtube.com/watch?v=GYam_nJKr6E) - A great class that is free!  Tyler Hudak is one of the best in the industry and is also a great teacher.
 - [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - A very talented and successful bug bounty hunter and hacker who loves to share techniques with his audiences.
+- [HackerSploit](https://www.youtube.com/@HackerSploit) - Well versed in cyber security with a love for teaching and sharing free security videos on both Offensive and Defensive techniques.
 
 ### Twitter Accounts and Personalites
 
@@ -309,6 +310,7 @@ No particular order.
 - Live Overflow (@LiveOverflow)
 - Brad from malware traffic (@malware_traffic)
 - IPPSec (@ippsec)
+- John Hammond (@_JohnHammond)
 - Azeria (@Fox0x01)
 - Kody Kinzie (@KodyKinzie)
 - Tinker (@TinkerSec)
@@ -333,8 +335,11 @@ There are a ton more I am not recognizing here but this will get you started.  W
 
 ### Discord Channels
 
-- Cyber Mentor
-- Hack the Box
+- [TCM Security](https://discord.gg/tcm) 
+- [Hack The Box](https://discord.gg/hackthebox)
+- [Try Hack Me](https://discord.gg/6q9ReKFsyy)
+- [Bugcrowd](https://discord.gg/tXXvU3tHdE)
+- [Offensive Security](https://discord.gg/kbU3nnh9t8)
 
 ### Podcasts
 
@@ -348,6 +353,9 @@ There are a ton more I am not recognizing here but this will get you started.  W
 - Smashing Security
 - Hackable?
 - Breach
+- Purple Squad Security
+- Black Hills Information Security
+- The Privacy, Security, & OSINT Show
 ***
 <br>
 
@@ -439,9 +447,9 @@ It seems that if you want to become an offensive focused hacker there are a ton 
 
 Topic|Links
 ---|---
-Labs / Vulnerable Machines | <li> [Hack The Box](https://www.hackthebox.eu/) - Seriously one of the best places to hang out, learn, have fun, and meet other hackers - oh... and loads of vulnerable machines.  Their discord is invaluable. <li> [Vulnhub](https://www.vulnhub.com/) - Clearing house of vulnerable machines. <li> [Juice Shop](https://www2.owasp.org/www-project-juice-shop/) - One of the greatest projects to teach you Web App Hacking.  The VulnWeb App for your own range along with walkthroughs.<li> [Lesser Known Web Attack lab (LKWA)](https://github.com/weev3/LKWA) <li> [Damn Vulnerable Web App DVWA](https://github.com/ethicalhack3r/DVWA)
+Labs / Vulnerable Machines | <li> [Hack The Box](https://www.hackthebox.eu/) - Seriously one of the best places to hang out, learn, have fun, and meet other hackers - oh... and loads of vulnerable machines.  Their discord is invaluable. <li> [Vulnhub](https://www.vulnhub.com/) - Clearing house of vulnerable machines. <li> [Juice Shop](https://www2.owasp.org/www-project-juice-shop/) - One of the greatest projects to teach you Web App Hacking.  The VulnWeb App for your own range along with walkthroughs.<li> [Lesser Known Web Attack lab (LKWA)](https://github.com/weev3/LKWA) <li> [Damn Vulnerable Web App DVWA](https://github.com/ethicalhack3r/DVWA) <li> [Portswigger Academy]([url](https://portswigger.net/web-security/)
 WiFi Hacking | .
-Web Application Hacking | .
+Web Application Hacking | <li> [TheCyberMentor](https://youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL) - Goes into the basics for Web App Pentesting <li>
 Scanning | .
 Using Exploits |.
 Developiong Exploits | .
@@ -453,9 +461,11 @@ Lateral Movement | .
 
 Topic|Links
 ---|---
+Fundamentals | [Hackersploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx) - Goes into the fundamentals of SIEM, IDS, and Blue Teaming
 Infrastructure Build Out | .
 SIEM Building | .
 Logs Analysis | .
 Threat Intel | .
 Threat Hunting | .
 Incident Response | .
+Network Defense | [Loi Liang Yang](https://www.youtube.com/playlist?list=PL0-xwzAwzllxblO9Pcx_iZTT_8uD7T83D)
